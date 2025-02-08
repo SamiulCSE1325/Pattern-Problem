@@ -1,1 +1,1 @@
-# Pattern-Problem
+Pattern-related problem codes in C, C++, or Java involve generating structured outputs, such as triangles, pyramids, diamonds, and number-based patterns. These problems help develop logical thinking and nested loop implementation skills.
